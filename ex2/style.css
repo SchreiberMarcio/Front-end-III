@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 97vh;
+}
+
+.laranja {
+    display: flex;
+    justify-content: end;
+}
+
+.circulo-laranja{
+    background-color: orange;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.bloco-azul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.quadrado-azul {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}

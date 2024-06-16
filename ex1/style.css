@@ -1,0 +1,23 @@
+.circulo-azul{
+    background-color: blue;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    
+}
+
+
+.circulo-laranja{
+    background-color: orange;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.container-flex {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+}

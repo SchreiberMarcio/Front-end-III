@@ -1,0 +1,47 @@
+html {
+    background-color: #f3f3f3;
+}
+
+body {
+    font-family: "Lato", Arial, sans-serif;
+    border: 1px solid #ccc;
+    background-color: #fefefe;
+}
+
+#header .profile-thumbnail {
+    width: 120px;
+    height: 120px;
+}
+
+#header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.profile-name {
+    margin-right: auto;
+}
+
+#follow {
+    display: flex;
+    align-items: center;
+}
+
+button {
+    cursor: pointer;
+}
+
+#footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+#inner {
+    margin: 10px;
+}
